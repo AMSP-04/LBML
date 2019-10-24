@@ -37,6 +37,10 @@ Version numbering of this FOM Module and associated documentation is based on th
 |---|---|
 |v1.1.0 |NETN-LBML included in NETN FOM v2.0 as part of AMSP-04 Ed A.|
 
+## Note
+
+NETN-LBML will be deprecated on release of NETN-ETR as part of NETN-FOM v2.0 which is currently under development.
+
 ## Documentation
 
 [Full Documentation](https://nso.nato.int/nso/nsdd/APdetails.html?APNo=2268&LA=EN)
