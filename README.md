@@ -1,4 +1,4 @@
-# Low Level BML FOM Module
+# Low Level BML FOM Module (DEPRECATED)
 
 ## Purpose
 The NETN-LBML FOM module is simulation oriented and focuses on tasks with a fine granularity:
@@ -39,7 +39,7 @@ Version numbering of this FOM Module and associated documentation is based on th
 
 ## Note
 
-NETN-LBML will be deprecated on the release of NETN-ETR as part of NETN-FOM v3.0 which is currently under development.
+NETN-LBML has been deprecated as of the release of NETN-ETR as part of NETN-FOM v3.0.
 
 ## Documentation
 
